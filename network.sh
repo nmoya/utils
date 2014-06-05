@@ -1,5 +1,4 @@
 #!/bin/bash
-# http://magp.ie/2012/07/09/mac-osx-shell-script-to-automate-connecting-to-wifi-network/
 
 AIRPORT="en1"; #may be en0, use networksetup -listallhardwareports to check
 WIFI_NETWORK_NAME="MARCOS-PC_Network"
